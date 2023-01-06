@@ -1,4 +1,4 @@
 # SeventhLessonApplicationModerator
 <p align="left">
-<img src="https://user-images.githubusercontent.com/108148690/211100234-fd15516b-d040-4e55-8157-fdc82eecbf15.jpeg"/>
+<img src="https://user-images.githubusercontent.com/108148690/211100482-f8866112-7ff3-4c6a-852d-c392b70c0f65.jpeg"/>
 </p>
